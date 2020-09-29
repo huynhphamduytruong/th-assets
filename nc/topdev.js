@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         TopDev kick anoying buttons
+// @name         TopDev NoMoreExpand
 // @version      0.1
-// @description  try to take over the world!
+// @description  Remove Expand... button from TopDev site
 // @author       You
 // @match        *://*.topdev.vn/*
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
